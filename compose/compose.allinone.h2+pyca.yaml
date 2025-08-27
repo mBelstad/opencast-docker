@@ -88,4 +88,4 @@ services:
       - ./assets:/etc/pyca:ro
       - pyca:/var/lib/pyca
     ports:
-      - "8000:8000"
+      - "8005:8005"
